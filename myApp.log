@@ -1,0 +1,8 @@
+2015-06-30 13:34:10,946 : myApp : ERROR : You encountered an error
+2015-06-30 13:34:10,948 : myApp : WARNING : Warning being displayed
+2015-06-30 13:34:10,948 : myApp : INFO : Info logging
+2015-06-30 13:34:10,948 : myApp : CRITICAL : You have encountered a critical error...Be careful !!!
+2015-06-30 13:34:33,330 : myApp : ERROR : You encountered an error
+2015-06-30 13:34:33,331 : myApp : WARNING : Warning being displayed
+2015-06-30 13:34:33,331 : myApp : INFO : Info logging
+2015-06-30 13:34:33,331 : myApp : CRITICAL : You have encountered a critical error...Be careful !!!
